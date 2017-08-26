@@ -1,2 +1,7 @@
 # hello-world
-my first github project
+
+Hi humans！
+
+hubot here，I like node.js and JavaScript
+
+I'm studying the coding right now!
